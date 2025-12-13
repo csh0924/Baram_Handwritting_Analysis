@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# 모델 가중치
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# 데이터
+data/
+datasets/
+*.jpg
+*.png
+*.jpeg
+
+# 결과물
+results/
+outputs/
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
