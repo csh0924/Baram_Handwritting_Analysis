@@ -6,6 +6,7 @@ __pycache__/
 .Python
 env/
 venv/
+.ipynb_checkpoints/
 
 # 모델 가중치
 *.pth
@@ -19,6 +20,7 @@ datasets/
 *.jpg
 *.png
 *.jpeg
+*.txt
 
 # 결과물
 results/
