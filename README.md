@@ -1,4 +1,4 @@
-# Barun_Handwritting_Analysis
+# Baram_Handwritting_Analysis
 숭실대 25' 4-2 캡스톤프로젝트 팀 바른글씨:바람의 손글씨 분석 및 평가 모델
 
 ## License
