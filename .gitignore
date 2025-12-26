@@ -21,6 +21,11 @@ datasets/
 *.png
 *.jpeg
 *.txt
+*.json
+*.xml
+*.ttf
+*.csv
+*.zip
 
 # 결과물
 results/
